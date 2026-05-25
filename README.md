@@ -216,3 +216,10 @@ pipeline/
 ├── requirements.txt
 └── .env.example
 ```
+## Screenshots
+
+![Overview](screenshots/01_overview.png)
+![Device Health](screenshots/02_device_health.png)
+![Error Analysis](screenshots/03_error_analysis.png)
+![Anomaly Detection](screenshots/04_anomaly_detection.png)
+![Troubleshooting](screenshots/05_troubleshooting.png)
