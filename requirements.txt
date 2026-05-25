@@ -1,0 +1,9 @@
+faker
+pandas
+psycopg2-binary
+duckdb
+prefect
+streamlit
+plotly
+kafka-python
+python-dotenv
