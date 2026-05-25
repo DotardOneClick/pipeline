@@ -218,8 +218,8 @@ pipeline/
 ```
 ## Screenshots
 
-![Overview](screenshots/01_overview.png)
-![Device Health](screenshots/02_device_health.png)
-![Error Analysis](screenshots/03_error_analysis.png)
-![Anomaly Detection](screenshots/04_anomaly_detection.png)
-![Troubleshooting](screenshots/05_troubleshooting.png)
+![Overview](screenshots/01_overview.jpg)
+![Device Health](screenshots/02_device_health.jpg)
+![Error Analysis](screenshots/03_error_analysis.jpg)
+![Anomaly Detection](screenshots/04_anomaly_detection.jpg)
+![Troubleshooting](screenshots/05_troubleshooting.jpg)
